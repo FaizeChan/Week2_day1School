@@ -19,6 +19,21 @@ namespace Week2_day1School
             Console.WriteLine(favoriteNumbers[0]);
             Console.WriteLine(studentNames[2]);
 
+            int[] numbers = new int[4];
+
+            //string[] vacationSpots = {"Tokeyo", "Hawaii", "California", "Las Vegas", "Home", "DeathValley", "Disney World", "Paris", "Cruising in the Pacific", "long Island Beach" };
+            //int[] childrensAges = { 7, 5, 3 };
+            //decimal[] studentsGPA = { 1.2m, 1.7m, 1.8m, 2.5m, 2.9m, 3.7m, 4.0m, 3.3m };
+
+
+            //Console.WriteLine(vacationSpots[0]);
+            //Console.WriteLine(vacationSpots[9]);
+
+            //Console.WriteLine(childrensAges[0]);
+            //Console.WriteLine(childrensAges[1]);
+            //Console.WriteLine(childrensAges[2]);
+
+            //Console.WriteLine(studentsGPA[7]);
         }
     }
 }
