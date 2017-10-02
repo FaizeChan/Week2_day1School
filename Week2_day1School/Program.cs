@@ -17,6 +17,7 @@ namespace Week2_day1School
             string[] studentNames = { "Faizon", "Raz", "Monica", "Brian", "Ali", "David" };
 
             Console.WriteLine(favoriteNumbers[0]);
+            Console.WriteLine(studentNames[2]);
 
         }
     }
