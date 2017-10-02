@@ -10,6 +10,14 @@ namespace Week2_day1School
     {
         static void Main(string[] args)
         {
+
+            //int favoriteNumber;
+            int[] favoriteNumbers = { 1, 2, 3, 4, 5, 6 };
+
+            string[] studentNames = { "Faizon", "Raz", "Monica", "Brian", "Ali", "David" };
+
+            Console.WriteLine(favoriteNumbers[0]);
+
         }
     }
 }
