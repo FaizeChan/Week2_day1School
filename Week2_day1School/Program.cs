@@ -101,7 +101,30 @@ namespace Week2_day1School
             //char[] firstName = { 'f', 'a', 'i', 'z', 'o', 'n' };
             //Console.WriteLine(firstName[4]);
 
+            //Console.WriteLine("Please enter the size of your array.");
+            //int arraySize = int.Parse(Console.ReadLine());
 
+            //int[] newArray = new int[arraySize];
+
+            //string[] birthMonth = { "October", "July", "October", "May" };
+            //Console.WriteLine(Array.IndexOf(birthMonth, "August"));
+
+            int[] numbers = { 2, 5, 9, 4, 3, 4, 6, 5 };
+            Console.WriteLine(Array.LastIndexOf(numbers, 4));
+
+            Array.Reverse(numbers);
+            Console.WriteLine(numbers[0]);
+
+            Array.Sort(numbers);
+            Console.WriteLine(numbers[0]);
+            Console.WriteLine(numbers[numbers.Length - 1]);
+
+
+
+
+
+
+            //Console.WriteLine("The array is of length " + newArray.Length);
 
 
 
