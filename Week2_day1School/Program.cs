@@ -75,8 +75,8 @@ namespace Week2_day1School
             //char[] lastName = { 'A', 'l', 'e', 'x', 'a', 'n', 'd', 'e', 'r' };
             //Console.WriteLine(lastName.Length);
 
-            string[] exampleStringArray = { "This", "is", "an", "array", "of", "words." };
-            Console.WriteLine(exampleStringArray[exampleStringArray.Length - 1]);
+            //string[] exampleStringArray = { "This", "is", "an", "array", "of", "words." };
+            //Console.WriteLine(exampleStringArray[exampleStringArray.Length - 1]);
 
             //int index = exampleStringArray.Length;
             //index = index - 2;
@@ -97,6 +97,17 @@ namespace Week2_day1School
             //Console.WriteLine(childrensAges[2]);
 
             //Console.WriteLine(studentsGPA[7]);
+
+            //char[] firstName = { 'f', 'a', 'i', 'z', 'o', 'n' };
+            //Console.WriteLine(firstName[4]);
+
+
+
+
+
+
+
+
         }
     }
 }
